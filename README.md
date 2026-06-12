@@ -1,4 +1,4 @@
-# Client-Server-Chat-Application
+# Client/Server Chat Application
 This is a simple Chat Application created for my CY4740 Networking class that allows multiple clients to connect
 to a server via UDP sockets. The application is written in Python. It uses
 arg parse when accepting commands, and sends data back and forth in the form
